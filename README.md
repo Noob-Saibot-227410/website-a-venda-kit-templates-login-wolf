@@ -5,8 +5,9 @@
 
 <hr>
 
-[![GitHub license](https://img.shields.io/github/license/nauvalazhar/my-login.svg)](https://github.com/nauvalazhar/my-login/blob/master/LICENSE)
 ![Author](https://img.shields.io/badge/author-%40NOOB_SAIBOT_22742410-blue.svg)
+[![GitHub license](https://img.shields.io/github/license/nauvalazhar/my-login.svg)](https://github.com/nauvalazhar/my-login/blob/master/LICENSE)
+
 
 <hr>
 
