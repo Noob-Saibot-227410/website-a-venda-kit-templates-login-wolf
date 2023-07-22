@@ -11,7 +11,7 @@
 
 <hr>
 
-KIT TEMPLATE PRONTO LOGIN_WOLF - SITE PARA USO PROFISSIONAL
+KIT DE TEMPLATES PRONTAS LOGIN_WOLF - PARA USO PROFISSIONAL
 
 Apresentamos o LOGIN_WOLF um kit de templates profissionalmente projetado para ser utilizados em seus projetos com total adianto em todas essas telas com estes templetes prontos. Este template já vem pré-organizado, permitindo que você se concentre exclusivamente na construção do backend de acordo com as necessidades específicas do seu projeto. Com este template, você tem uma base sólida e esteticamente agradável para começar e já finalizar a parte de logins de usuários, economizando tempo e esforço no design do frontend.
 
